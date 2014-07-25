@@ -1,0 +1,22 @@
+{
+  "name": "bower-mapboxjs",
+  "version": "2.0.0",
+  "homepage": "https://github.com/mapbox/mapbox.js",
+  "authors": [
+    "Ramón Roche <mrpollo@gmail.com>"
+  ],
+  "description": "mapbox.js bower package",
+  "main": "mapbox.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "mapbox.js",
+    "leaflet"
+  ],
+  "license": "see LICENSE.md",
+  "private": true,
+  "ignore": [
+    "**/.*",
+  ]
+}
